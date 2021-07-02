@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+
+    background: linear-gradient(gold 0%, grey 50%, silver 100%);
+}
+
+#image1 {
+    border-radius: 50%;
+    border-style: ridge;
+    border-width: 20px;
+    border-color: dodgerblue
+}
+
+h1 {
+    font-size: 80px;
+    font-style: oblique;
+    color: darkcyan
+}
+
+p {
+    font-size: 30px;
+    color: goldenrod;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+}
+
+.menu {
+    list-style: none;
+}
+
+.link {
+    float: left;
+    color: orangered;
+    font-family: Zen Dots;
+    padding-left: 9px;
+}
+
+.link:hover {
+    background-color: mediumorchid;
+}
+
+#contact {
+    background: silver;
+}
+
+.contact1 h3 {
+    display: inline;
+}
+
+a {
+    text-shadow: 2px 2px orangered;
+    color: aquamarine
+}
